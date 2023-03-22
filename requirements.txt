@@ -1,0 +1,2 @@
+pywin32 == 305
+win32printing == 0.1.3
